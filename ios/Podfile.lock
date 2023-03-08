@@ -1,0 +1,29 @@
+PODS:
+  - cbl_flutter_ee (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - cbl_flutter_ee (from `.symlinks/plugins/cbl_flutter_ee/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/ios`)
+
+EXTERNAL SOURCES:
+  cbl_flutter_ee:
+    :path: ".symlinks/plugins/cbl_flutter_ee/ios"
+  Flutter:
+    :path: Flutter
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/ios"
+
+SPEC CHECKSUMS:
+  cbl_flutter_ee: 7a7cb56df2568b913cdf7924c048ffd6426292e8
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  path_provider_foundation: c68054786f1b4f3343858c1e1d0caaded73f0be9
+
+PODFILE CHECKSUM: 985e5b058f26709dc81f9ae74ea2b2775bdbcefe
+
+COCOAPODS: 1.11.3

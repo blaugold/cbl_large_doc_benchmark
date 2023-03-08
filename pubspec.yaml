@@ -1,0 +1,20 @@
+name: cbl_large_doc_benchmark
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.3 <3.0.0'
+
+dependencies:
+  cbl: ^2.1.6
+  cbl_dart: ^2.1.7
+  cbl_flutter: ^2.0.4
+  cbl_flutter_ee: ^2.1.4
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  lotum_analysis:
+    git:
+      url: https://github.com/lotum/lotum_analysis
+      ref: lotum_analysis-v1.0.2

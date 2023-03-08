@@ -1,0 +1,43 @@
+BenchmarkResult: entries:      1, averageTimeToSave:   4.25ms, bytesAsJson:     2.10 KB
+BenchmarkResult: entries:     10, averageTimeToSave:  40.16ms, bytesAsJson:    40.56 KB
+BenchmarkResult: entries:     20, averageTimeToSave:  55.69ms, bytesAsJson:    62.83 KB
+BenchmarkResult: entries:     30, averageTimeToSave:  96.49ms, bytesAsJson:    97.62 KB
+BenchmarkResult: entries:     40, averageTimeToSave: 144.89ms, bytesAsJson:   112.01 KB
+BenchmarkResult: entries:     50, averageTimeToSave: 147.86ms, bytesAsJson:   139.39 KB
+BenchmarkResult: entries:     60, averageTimeToSave: 215.28ms, bytesAsJson:   186.44 KB
+BenchmarkResult: entries:     70, averageTimeToSave: 241.75ms, bytesAsJson:   193.90 KB
+BenchmarkResult: entries:     80, averageTimeToSave: 293.17ms, bytesAsJson:   233.57 KB
+BenchmarkResult: entries:     90, averageTimeToSave: 300.53ms, bytesAsJson:   277.80 KB
+BenchmarkResult: entries:    100, averageTimeToSave: 387.80ms, bytesAsJson:   367.27 KB
+BenchmarkResult: entries:    110, averageTimeToSave: 332.67ms, bytesAsJson:   301.68 KB
+BenchmarkResult: entries:    120, averageTimeToSave: 367.34ms, bytesAsJson:   373.55 KB
+BenchmarkResult: entries:    130, averageTimeToSave: 344.12ms, bytesAsJson:   361.81 KB
+BenchmarkResult: entries:    140, averageTimeToSave: 410.53ms, bytesAsJson:   438.12 KB
+BenchmarkResult: entries:    150, averageTimeToSave: 455.62ms, bytesAsJson:   440.10 KB
+BenchmarkResult: entries:    160, averageTimeToSave: 484.44ms, bytesAsJson:   511.08 KB
+BenchmarkResult: entries:    170, averageTimeToSave: 519.56ms, bytesAsJson:   504.06 KB
+BenchmarkResult: entries:    180, averageTimeToSave: 543.29ms, bytesAsJson:   535.68 KB
+BenchmarkResult: entries:    190, averageTimeToSave: 537.85ms, bytesAsJson:   543.49 KB
+BenchmarkResult: entries:    200, averageTimeToSave: 613.39ms, bytesAsJson:   639.91 KB
+Entries,Bytes as JSON,Average time to save
+1,2146,4.248
+10,41534,40.157
+20,64343,55.688
+30,99960,96.487
+40,114699,144.89
+50,142732,147.857
+60,190919,215.282
+70,198556,241.747
+80,239180,293.174
+90,284471,300.53
+100,376089,387.802
+110,308925,332.673
+120,382517,367.343
+130,370495,344.122
+140,448635,410.53
+150,450665,455.616
+160,523350,484.436
+170,516162,519.556
+180,548538,543.286
+190,556530,537.849
+200,655270,613.39

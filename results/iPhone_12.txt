@@ -1,0 +1,43 @@
+BenchmarkResult: entries:      1, averageTimeToSave:   0.33ms, bytesAsJson:     2.10 KB
+BenchmarkResult: entries:     10, averageTimeToSave:   1.28ms, bytesAsJson:    40.56 KB
+BenchmarkResult: entries:     20, averageTimeToSave:   1.86ms, bytesAsJson:    62.83 KB
+BenchmarkResult: entries:     30, averageTimeToSave:   3.96ms, bytesAsJson:    97.62 KB
+BenchmarkResult: entries:     40, averageTimeToSave:   3.78ms, bytesAsJson:   112.01 KB
+BenchmarkResult: entries:     50, averageTimeToSave:   3.76ms, bytesAsJson:   139.39 KB
+BenchmarkResult: entries:     60, averageTimeToSave:   5.55ms, bytesAsJson:   186.44 KB
+BenchmarkResult: entries:     70, averageTimeToSave:   5.07ms, bytesAsJson:   193.90 KB
+BenchmarkResult: entries:     80, averageTimeToSave:   6.12ms, bytesAsJson:   233.57 KB
+BenchmarkResult: entries:     90, averageTimeToSave:   7.13ms, bytesAsJson:   277.80 KB
+BenchmarkResult: entries:    100, averageTimeToSave:   9.32ms, bytesAsJson:   367.27 KB
+BenchmarkResult: entries:    110, averageTimeToSave:   7.92ms, bytesAsJson:   301.68 KB
+BenchmarkResult: entries:    120, averageTimeToSave:   9.51ms, bytesAsJson:   373.55 KB
+BenchmarkResult: entries:    130, averageTimeToSave:   9.51ms, bytesAsJson:   361.81 KB
+BenchmarkResult: entries:    140, averageTimeToSave:  11.94ms, bytesAsJson:   438.12 KB
+BenchmarkResult: entries:    150, averageTimeToSave:  12.00ms, bytesAsJson:   440.10 KB
+BenchmarkResult: entries:    160, averageTimeToSave:  13.90ms, bytesAsJson:   511.08 KB
+BenchmarkResult: entries:    170, averageTimeToSave:  13.68ms, bytesAsJson:   504.06 KB
+BenchmarkResult: entries:    180, averageTimeToSave:  14.25ms, bytesAsJson:   535.68 KB
+BenchmarkResult: entries:    190, averageTimeToSave:  14.74ms, bytesAsJson:   543.49 KB
+BenchmarkResult: entries:    200, averageTimeToSave:  17.97ms, bytesAsJson:   639.91 KB
+Entries,Bytes as JSON,Average time to save
+1,2146,0.33
+10,41534,1.28
+20,64343,1.861
+30,99960,3.959
+40,114699,3.779
+50,142732,3.764
+60,190919,5.549
+70,198556,5.065
+80,239180,6.119
+90,284471,7.131
+100,376089,9.32
+110,308925,7.921
+120,382517,9.506
+130,370495,9.513
+140,448635,11.94
+150,450665,11.999
+160,523350,13.9
+170,516162,13.677
+180,548538,14.251
+190,556530,14.739
+200,655270,17.968
